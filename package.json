@@ -1,0 +1,13 @@
+{
+  "name": "lane-project2",
+  "version": "0.0.1",
+  "description": "Simple example of Koa.js",
+  "main": "app.js",
+  "devDependencies": {},
+  "dependencies": {
+    "koa": "^1.2.4",
+    "koa-router": "^5.4.0",
+    "node-fetch": "^1.6.1",
+    "supertest": "^2.0.0"
+  }
+}
